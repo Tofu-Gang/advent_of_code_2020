@@ -1,7 +1,7 @@
 __author__ = "Tofu Gang"
 __email__ = "tofugangsw@gmail.com"
 
-from day_12.day_12 import puzzle_2 as puzzle
+from day_13.day_13 import puzzle_2 as puzzle
 
 ################################################################################
 
